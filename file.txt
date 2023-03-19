@@ -1,2 +1,2 @@
-first commit	second commit	third commit
+first commit	second commit	third commit	very last commit
 first bugFix	second bugFix
